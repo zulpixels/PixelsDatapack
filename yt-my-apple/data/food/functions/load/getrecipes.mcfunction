@@ -1,0 +1,21 @@
+tellraw @p {"text":"=-=-=-=-=-=-=-=-=-=-=-=-="}
+tellraw @p [{"text":"> "},{"text":"Craft With Crafting Table","color":"aqua","bold":true}]
+tellraw @p [{"text":"> "},{"text":"│ A A A │"}]
+tellraw @p [{"text":"> "},{"text":"│ A B A │"}]
+tellraw @p [{"text":"> "},{"text":"│ A A A │"}]
+tellraw @p {"text":""}
+tellraw @p [{"text":"> "},{"text":"A: Apple."}]
+tellraw @p [{"text":"> "},{"text":"SI Life Apple :","bold":true,"color":"gold"}]
+tellraw @p [{"text":"> "},{"text":"B: Red Dye."}]
+tellraw @p [{"text":"> "},{"text":"AdamXD Apple :","bold":true,"color":"gold"}]
+tellraw @p [{"text":"> "},{"text":"B: CobbleStone."}]
+tellraw @p [{"text":"> "},{"text":"ShazBruh Apple :","bold":true,"color":"gold"}]
+tellraw @p [{"text":"> "},{"text":"B: Iron Sword."}]
+tellraw @p [{"text":"> "},{"text":"FarisFS Apple :","bold":true,"color":"gold"}]
+tellraw @p [{"text":"> "},{"text":"B: Block of Lapis Lazuli."}]
+tellraw @p [{"text":"> "},{"text":"CubeMalay Apple :","bold":true,"color":"gold"}]
+tellraw @p [{"text":"> "},{"text":"B: Slime Block."}]
+tellraw @p [{"text":"> "},{"text":"Craft With Crafting","color":"aqua","bold":true}]
+tellraw @p [{"text":"> "},{"text":"Apple Apple :","bold":true,"color":"gold"}]
+tellraw @p [{"text":"> "},{"text":"Apple and Apple."}]
+tellraw @p {"text":"=-=-=-=-=-=-=-=-=-=-=-=-="}

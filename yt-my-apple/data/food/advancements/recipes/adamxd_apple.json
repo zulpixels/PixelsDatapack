@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "food:adamxd_apple"
+            }
+        }
+    },
+    "rewards": {
+        "function": "food:crafting/adamxd_apple"
+    }
+}

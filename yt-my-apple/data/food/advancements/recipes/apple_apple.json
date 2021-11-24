@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "food:apple_apple"
+            }
+        }
+    },
+    "rewards": {
+        "function": "food:crafting/apple_apple"
+    }
+}
